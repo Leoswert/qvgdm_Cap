@@ -1,4 +1,4 @@
-<quiz name="TestQuiz">
+<quiz name="Quiz A">
   <questions>
     <question rank="1">
       <name>Question One</name>
